@@ -1,4 +1,3 @@
-from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -10,11 +9,12 @@ login = "igorsantossilva@dayrep.com"
 pwd = "Q1w@e3r4"
 
 botao_login = session.find_element(By.ID, 'botaoLogin')
-'''input_login = session.find_element(By.ID, 'inputUsuarioLogin')
+input_login = session.find_element(By.ID, 'inputUsuarioLogin')
 input_pwd = session.find_element(By.ID, 'inputSenhaLogin')
 
 input_login.send_keys(login)
-input_pwd.send_keys(pwd)'''
-
-# sleep(500)
+input_pwd.send_keys(pwd)
 botao_login.click()
+
+
+

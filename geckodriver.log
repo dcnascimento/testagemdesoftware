@@ -77,3 +77,173 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1646521131204	geckodriver	INFO	Listening on 127.0.0.1:61840
+1646521134211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61841" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileDz3PX7"
+1646521134597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileDz3PX7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61841/devtools/browser/e00a4eee-c20f-4650-af90-74475563f641
+1646521137181	Marionette	INFO	Listening on port 61847
+1646521137407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646521161249	Marionette	INFO	Stopped listening on port 61847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646521246090	geckodriver	INFO	Listening on 127.0.0.1:62008
+1646521249058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62009" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofilevBS3GW"
+1646521249545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofilevBS3GW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62009/devtools/browser/3f46c2d0-1d13-4b28-ac33-942f560f302b
+1646521251539	Marionette	INFO	Listening on port 62014
+1646521251746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646521273957	Marionette	INFO	Stopped listening on port 62014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646521370328	geckodriver	INFO	Listening on 127.0.0.1:62141
+1646521373309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62142" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileHtqrVS"
+1646521373757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileHtqrVS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62142/devtools/browser/b074fe71-dd9b-4bb4-b6ff-776409a42182
+1646521375775	Marionette	INFO	Listening on port 62149
+1646521376002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646521402515	Marionette	INFO	Stopped listening on port 62149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646522120701	geckodriver	INFO	Listening on 127.0.0.1:62381
+1646522123679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62382" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofile4cAy9r"
+1646522124108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofile4cAy9r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62382/devtools/browser/f0b87b94-a303-40db-b3e8-ee3f3d9983bc
+1646522126194	Marionette	INFO	Listening on port 62387
+1646522126390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646522163289	Marionette	INFO	Stopped listening on port 62387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646522288990	geckodriver	INFO	Listening on 127.0.0.1:62653
+1646522291981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62654" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileoez5iw"
+1646522292382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileoez5iw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62654/devtools/browser/c21f87ba-489a-44ab-b725-ef9a2d113e87
+1646522294319	Marionette	INFO	Listening on port 62659
+1646522294667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+1646522307323	Marionette	INFO	Stopped listening on port 62659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646522360746	geckodriver	INFO	Listening on 127.0.0.1:62769
+1646522363738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62770" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileOPNzDC"
+1646522364136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileOPNzDC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62770/devtools/browser/6de9388e-b627-4272-aed3-7840273fc3e8
+1646522365956	Marionette	INFO	Listening on port 62775
+1646522366433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646522378008	Marionette	INFO	Stopped listening on port 62775
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646522505323	geckodriver	INFO	Listening on 127.0.0.1:62969
+1646522508290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62970" "-no-remote" "-profile" "C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileM2ouWt"
+1646522508709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\supero\\AppData\\Local\\Temp\\rust_mozprofileM2ouWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62970/devtools/browser/8ca5e513-b2bf-463b-8bbe-4f8fe446f7ba
+1646522510583	Marionette	INFO	Listening on port 62975
+1646522510965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.kabum.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646522518921	Marionette	INFO	Stopped listening on port 62975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
