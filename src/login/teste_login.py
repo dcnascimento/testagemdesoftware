@@ -10,6 +10,7 @@ class Teste_Login:
     input_pwd = session.find_element(By.ID, 'inputSenhaLogin')
     botao_facebook = session.find_element(By.ID, 'botaoLoginFacebook')
     botao_google = session.find_element(By.ID, 'botaoLoginGoogle')
+    esqueceu_senha = session.find_element(By.ID, 'linkEsqueciSenha')
 
     def __init__(self) -> None:
         pass
@@ -26,8 +27,4 @@ class Teste_Login:
         self.botao_google.click()
 
     def esqueceu_senha(self):
-        input_email = session.find_element(By.ID, )
-
-
-
-
+        self.esqueceu_senha.click()
