@@ -2,7 +2,7 @@ from teste_login import Teste_Login
 
 teste = Teste_Login()
 
-login = "46516321655"
-pwd = "Q1w@e3r4"
+login = "igorsantossilva@dayrep.com"
+pwd = "123456"
 
 teste.efetuar_login(login, pwd)
