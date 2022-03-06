@@ -12,7 +12,7 @@
 
 describe('Aba de pesquisa', () => {
   before(() => {
-    cy.visit('/busca')
+    cy.visit('https://www.kabum.com.br/busca')
   })
 
   //CT_023
