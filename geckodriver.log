@@ -247,3 +247,13 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeE
 JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1646522518921	Marionette	INFO	Stopped listening on port 62975
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646527435020	geckodriver	INFO	Listening on 127.0.0.1:52754
+1646527438192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52755" "-no-remote" "-profile" "C:\\Users\\MANUNE~1\\AppData\\Local\\Temp\\rust_mozprofileTEytY8"
+1646527439365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Manunella\\AppData\\Local\\Temp\\rust_mozprofileTEytY8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52755/devtools/browser/26f9c8f6-2570-42e9-8ea8-4e485eabba4f
+1646527445740	Marionette	INFO	Listening on port 52760
+1646527445894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646528247824	Marionette	INFO	Stopped listening on port 52760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
